@@ -13,6 +13,9 @@
 
 ## Featured Projects
 
+### [ScrapAndSprout](https://github.com/kimhyoeun98/ScrapAndSprout)
+Unity 기반 2D 협동 멀티플레이 게임 프로젝트
+
 ### [GameFlow](https://github.com/kimhyoeun98/GameFlow)
 게임 개발 과정의 테스트, 결함, 빌드 및 협업 관리를 위한 QA 중심 프로젝트
 
