@@ -23,9 +23,6 @@ Unity 기반 멀티플레이 게임 프로젝트
 ### [UnderWatch](https://github.com/kimhyoeun98/UnderWatch)
 Spring MVC 기반 커뮤니티 웹 프로젝트
 
-### [QA Portfolio](https://github.com/kimhyoeun98/QA-Portfolio)
-테스트 케이스, 버그 리포트, 명세 리뷰 등 QA 실습 자료 정리
-
 ## Currently Learning
 
 `API Testing` `DB Testing` `Test Design` `Game QA Process`
