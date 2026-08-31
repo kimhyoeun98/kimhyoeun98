@@ -27,8 +27,8 @@ Unity 기반 멀티플레이 게임 프로젝트로, 게임 구조와 플레이 
 기능별 검증 포인트 및 플레이테스트 계획을 작성하고 있습니다
 
 ### [UnderWatch](https://github.com/kimhyoeun98/UnderWatch)
-Spring MVC 기반 커뮤니티 웹 프로젝트  
-웹 서비스의 클라이언트, 서버, 데이터 흐름을 이해하기 위한 개발 프로젝트
+Spring MVC 기반 오버워치 커뮤니티 웹 프로젝트  
+Spring Security 인증, WebSocket 알림, MyBatis·Oracle 기반 데이터 처리를 구현했습니다.
 
 ## Currently Learning
 
