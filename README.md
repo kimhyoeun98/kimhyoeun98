@@ -15,8 +15,8 @@
 
 ### [ScrapAndSprout](https://github.com/kimhyoeun98/ScrapAndSprout)
 Unity 기반 2D 협동 멀티플레이 게임 프로젝트  
-Unity, Photon Fusion, REST API, MySQL이 연결된 환경에서 기능 구현과 테스트를 진행하고  
-플레이 과정에서 발견한 문제의 원인 분석, 수정 및 재검증을 경험했습니다.
+게임 기획과 Unity 클라이언트 개발을 담당했으며,
+기능 테스트 과정에서 결함을 발견하고 원인 분석, 수정 및 재검증을 경험했습니다.
 
 ### [GameFlow](https://github.com/kimhyoeun98/GameFlow)
 게임 QA의 테스트, 버그 관리, 수정 및 재테스트 과정을 지원하는 QA 중심 협업 플랫폼
